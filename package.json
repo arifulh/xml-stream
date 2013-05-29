@@ -17,8 +17,8 @@
     "url": "git://github.com/assistunion/xml-stream.git"
   },
   "dependencies": {
-    "iconv": "~1.1.3",
-    "node-expat": "~2.0.0"
+    "iconv": "git://github.com/bnoordhuis/node-iconv.git#v2.0.3",
+    "node-expat": "git://github.com/astro/node-expat.git#v2.0.0"
   },
   "engines": {
     "node": ">=0.6.0"
