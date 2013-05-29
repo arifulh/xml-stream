@@ -20,8 +20,8 @@
     "iconv": "git://github.com/bnoordhuis/node-iconv.git#v2.0.3",
     "node-expat": "git://github.com/astro/node-expat.git#v2.0.0"
   },
-  "engines": {
-    "node": ">=0.6.0"
+ "engines": {
+    "node": "0.8.x"
   },
   "directories": {
     "lib": "./lib"
